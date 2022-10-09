@@ -9,6 +9,7 @@ Tecnologias usadas 💻
 <ul>
   <li>ReactJs</li>
   <li>Styled-Components</li>
+  <li>axios</li>
   <li>NodeJs</li>
   <li>Koa</li>
 <ul/>
